@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+    <string name="mode_ready">Snake\nPress Up To Play</string>
+    <string name="mode_pause">Paused\nPress Up To Resume</string>
+    <string name="mode_lose_prefix">Game Over\nScore:</string>
+    <string name="mode_lose_suffix">\nPress Up To Play </string>
+    <string name="mode_lose_name">\nEnter Your Name:</string>
+    <string name="snake_layout_text_text"></string>
+    <string name="play">Play</string>
+    <string name="rock_desc">A png image of the rock.</string>
+    <string name="playerName">PlayerName</string>
+
+    <string name="splash">
+<!--        &#45;&#45; A Simple Game That Everyone Can Enjoy &#45;&#45;-->
+<!--  ** This is an implementation of the classic Game Snake, in which you control a-->
+<!--  serpent roaming around the garden looking for apples. Be careful, though,-->
+<!--  because when you catch one, not only will you become longer, but you will move-->
+<!--  faster. Running into yourself or the walls will end the game.-->
+<!--        ** -->
+    </string>
+
+
+</resources>
